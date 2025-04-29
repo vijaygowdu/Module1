@@ -1,15 +1,20 @@
-# Datatypes-Read and Print a String in Python
+## EX.NO:1(D)	DATA TYPES-READ AND PRINT A STRING
 
-## 🎯 Aim
-To write a Python program to read a string from the user and then print it.
+## AIM: 
+To write a python program to read and then print the string.
 
-## 🧠 Algorithm
-1. Assign a variable named `men_stepped_on_the_moon`.
-2. Use `input()` to read a string from the user and store it in the variable.
-3. Print the value stored in the variable.
+## ALGORITHM:
+Step1: Assign a variable ‘men_stepped_on_the_moon’ , get and store the input in the variable .
 
-## 🧾 Program
+Step2: Print the value
 
-## Output
+## PROGRAM:
+```
+men_stepped_on_the_moon=input()
+print(men_stepped_on_the_moon)
+```
+## OUTPUT:
+![image](https://github.com/user-attachments/assets/44b3307a-a1df-42bf-a565-d00c649d6b24)
 
-## Result
+## RESULT:
+Thus, the program has been successfully execute.
